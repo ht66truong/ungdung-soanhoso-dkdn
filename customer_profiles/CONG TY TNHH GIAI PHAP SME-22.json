@@ -1,0 +1,67 @@
+{
+  "context_cache": {
+    "dn_tencongty": "CÔNG TY TNHH GIẢI PHÁP SME",
+    "dn_tencongty_tienganh": "SME SOLUTIONS CO., LTD",
+    "dn_tencongty_viettat": "SMES CO., LTD",
+    "dn_truso_sonha": "99/9/6 Đường Số 8",
+    "dn_truso_phuong": "",
+    "dn_truso_tinh": "Thành phố Hồ Chí Minh",
+    "dn_vondieule_so": "600.000.000",
+    "dn_vondieule_bangchu": "Sáu trăm triệu đồng",
+    "ddpl_hoten": "NGUYỄN TRẦN CẨM TÚ",
+    "ddpl_ngaysinh": "11/06/1996",
+    "ddpl_gioitinh": "Nữ",
+    "ddpl_sodinhdanh": "087196013538",
+    "ddpl_diachi": "99/9/6 Đường Số 8, Phường Long Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "ddpl_chucdanh": "Giám đốc",
+    "csh_hoten": "",
+    "csh_ngaysinh": "",
+    "csh_gioitinh": "",
+    "csh_sodinhdanh": "",
+    "csh_diachi": "",
+    "dn_sdt": "070 999 9999",
+    "ds_thanhvien": ""
+  },
+  "ds_thanhvien": [
+    {
+      "hoten": "TRƯƠNG HỒNG TÂN",
+      "ngaysinh": "19/06",
+      "gioitinh": "Nam",
+      "cccd": "0870",
+      "quoctich": "",
+      "dantoc": "",
+      "diachi": "99 duong so 8",
+      "vongop": 300000000.0,
+      "thoihan": "90 ngày kể từ ngày cấp GCNĐKDN",
+      "taisan": "Đồng Việt Nam",
+      "tyle": 50.0
+    },
+    {
+      "hoten": "NGUYYỄN TRẦN CẨM TÚ",
+      "ngaysinh": "11/06",
+      "gioitinh": "Nữ",
+      "cccd": "0871",
+      "quoctich": "",
+      "dantoc": "",
+      "diachi": "99 duong so 8",
+      "vongop": 300000000.0,
+      "thoihan": "90 ngày kể từ ngày cấp GCNĐKDN",
+      "taisan": "Đồng Việt Nam",
+      "tyle": 50.0
+    }
+  ],
+  "ds_huongloi": [
+    {
+      "hoten": "NGUYỄN TRẦN CẨM TÚ",
+      "ngaysinh": "11/06/1996",
+      "gioitinh": "Nữ",
+      "cccd": "087196013538",
+      "quoctich": "",
+      "dantoc": "",
+      "diachi": "99/9/6 Đường Số 8, Phường Long Phước, Thành phố Hồ Chí Minh, Việt Nam",
+      "tyle_vdl": "100",
+      "tyle_bieuquyet": "",
+      "quyen_chiphoi": "- Bổ nhiệm, miễn nhiệm hoặc bãi nhiệm đa số hoặc tất cả thành viên hội đồng quản trị, giám đốc hoặc tổng giám đốc của doanh nghiệp\n- Sửa đổi, bổ sung điều lệ của doanh nghiệp\n- Thay đổi cơ cấu tổ chức quản lý công ty\n- Tổ chức lại, giải thể công ty"
+    }
+  ]
+}

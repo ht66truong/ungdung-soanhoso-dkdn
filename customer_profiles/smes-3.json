@@ -1,0 +1,59 @@
+{
+  "context_cache": {
+    "dn_tencongty": "smes-3",
+    "dn_tencongty_tienganh": "",
+    "dn_tencongty_viettat": "",
+    "dn_truso_sonha": "",
+    "dn_truso_tinh": "",
+    "dn_vondieule_so": "",
+    "dn_vondieule_bangchu": "",
+    "dn_sdt": "",
+    "ddpl_hoten": "",
+    "ddpl_ngaysinh": "",
+    "ddpl_gioitinh": "",
+    "ddpl_sodinhdanh": "",
+    "ddpl_diachi": "",
+    "ddpl_chucdanh": "",
+    "ds_thanhvien": "",
+    "ds_huongloi": "",
+    "dn_masodoanhnghiep": "",
+    "dn_truso_phuong": "",
+    "dn_email": "",
+    "csh_hoten": "",
+    "csh_ngaysinh": "",
+    "csh_gioitinh": "",
+    "csh_sodinhdanh": "",
+    "csh_diachi": "",
+    "thaydoikhac": ""
+  },
+  "ds_thanhvien": [
+    {
+      "hoten": "",
+      "ngaysinh": "",
+      "gioitinh": "",
+      "cccd": "",
+      "quoctich": "",
+      "dantoc": "",
+      "diachi": "",
+      "vongop": 0.0,
+      "thoihan": "90 ngày kể từ ngày cấp GCNĐKDN",
+      "taisan": "Đồng Việt Nam",
+      "tyle": ""
+    }
+  ],
+  "ds_huongloi": [
+    {
+      "hoten": "",
+      "ngaysinh": "",
+      "gioitinh": "",
+      "cccd": "",
+      "quoctich": "",
+      "dantoc": "",
+      "diachi": "",
+      "tyle_vdl": "",
+      "tyle_bieuquyet": "",
+      "quyen_chiphoi": "- Bổ nhiệm, miễn nhiệm hoặc bãi nhiệm đa số hoặc tất cả thành viên hội đồng quản trị, giám đốc hoặc tổng giám đốc của doanh nghiệp\n- Sửa đổi, bổ sung điều lệ của doanh nghiệp\n- Thay đổi cơ cấu tổ chức quản lý công ty\n- Tổ chức lại, giải thể công ty"
+    }
+  ],
+  "is_same": true
+}
